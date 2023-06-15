@@ -2,7 +2,7 @@ repeat wait(0.1)until game:IsLoaded()
 Settings = {
     ["On Screen Trackers"] = false,
     ["Performance"] = {
-        ["Disable 3D Rendering"] = false,
+        ["Disable 3D Rendering"] = true,
         ["Diable Orb Rendering"] = true,
         ["Disable Lootbags"] = true
     },

@@ -1,4 +1,4 @@
-```repeat wait(0.1) until game:IsLoaded()
+repeat wait(0.1) until game:IsLoaded()
 getgenv().Config = {
     Mine = {
         Areas = {

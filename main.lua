@@ -1,1 +1,1611 @@
-return(function(...)local q={"\121\117\083\120\075\101\061\061","\087\082\113\105\086\053\116\070";"\057\089\067\055\067\089\087\118\117\072\080\102\067\090\111\048";"\097\053\083\047\078\053\097\102\088\072\112\084\086\053\097\098\086\053\097\068\088\110\061\061";"\078\053\116\105\121\053\076\061","\121\053\097\108","\067\069\116\111\112\068\105\103\116\052\105\090\079\069\074\084\086\053\076\061";"\117\072\084\102\075\069\086\107\078\089\116\085\097\067\105\104\067\098\078\061";"\078\100\083\108\087\053\071\047","";"\110\098\116\079\078\072\097\107\067\069\087\081\112\113\068\076\121\117\073\061";"\089\117\113\105\121\110\061\061";"\104\080\061\061","\121\052\072\061","\081\113\071\103\087\117\051\061","\087\082\083\047\087\110\061\061";"\086\053\071\085\086\118\074\066\121\100\078\061","\081\113\071\066\121\100\112\084\057\101\061\061","\087\081\074\102\121\069\088\061";"\081\113\071\090\079\076\061\061";"\078\117\083\077\121\084\073\069\089\052\097\082\121\067\105\072","\071\088\070\073\097\073\089\105\106\112\051\061";"\079\090\084\120\087\110\061\061","\115\118\112\120\078\072\086\084\086\101\061\061","\086\117\109\076\079\117\116\043","\086\053\071\108\086\117\113\119\087\081\088\061","\104\119\080\084\087\099\070\066\104\080\061\061","\121\053\071\105\087\118\116\120\078\100\084\108\087\076\061\061";"\116\097\087\076\075\120\097\120\073\117\066\070\097\118\088\085\116\067\080\061","\087\084\111\097\067\118\111\104\078\118\084\082\116\068\112\068";"\087\069\116\113\079\080\061\061";"\087\100\055\050\121\069\088\061";"\101\120\105\121\087\085\075\081\053\075\119\079\065\120\065\079\112\068\104\121\079\088\111\088\101\104\103\065\102\100\088\106\072\097\078\113\043\108\120\111\120\109\102\108\113\075\082\074\109\043\052\069\055\065\102\055","\116\067\109\098\087\120\105\075\089\113\110\061","\081\113\071\047\087\081\112\105\086\053\083\119\121\053\067\061";"\078\100\097\047\121\069\087\084","\079\082\071\108\079\082\083\120","\121\052\088\061","\110\068\071\070\075\072\074\051\075\069\112\120\087\085\111\077\087\113\073\061";"\078\069\112\102\075\117\109\090";"\120\098\072\074\083\081\055\055\043\107\105\116\086\056\103\069\112\089\069\106\117\090\087\065\070\101\066\068\050\121\102\097\081\107\098\065\111\118\067\073";"\057\083\084\119\112\067\112\069\089\100\084\082\079\068\105\116";"\078\120\065\061","\079\082\105\105\078\080\061\061","\097\081\116\084\078\068\109\105\121\117\067\061";"\097\082\097\119\115\053\071\050\075\076\061\061";"\078\082\055\081\115\118\112\053\057\081\097\067\087\085\074\048\079\068\088\061","\078\082\097\120\121\117\097\120\079\081\112\105\079\100\055\084";"\087\097\097\099\075\053\112\109\117\118\072\120\089\085\074\049\078\052\067\061";"\086\053\083\119\121\053\067\061","\067\100\084\043\073\083\072\055\089\082\084\104\110\067\105\081\067\080\061\061"}for B,X in ipairs({{-752185-((1040906+-1106273)+((-1838040-(-1021842))+129379)),92420-92369};{839204-839203;(-543254+826285)+-282981};{109057-(443639+-334633);-867637+(708840+158848)}})do while X[634018-634017]<X[(-754754-(-18597))+736159]do q[X[85648-85647]],q[X[-963628-(-963630)]],X[307072-307071],X[457413+-457411]=q[X[-710592+(-705731+1416325)]],q[X[-845585-(-845586)]],X[-835969+835970]+(-658508-(-658509)),X[597926-597924]-((602342+-1306155)-(-703814))end end local function B(B)return q[B+((1068724-345511)-721097)]end do local B=string.sub local X=table.concat local F=string.char local n={Z=-255999-(-256038),i=-300303+(342902-42566);["\055"]=-97123-(-97172),P=(376312-565418)-(-189138);["\043"]=606618+-606575;["\047"]=-981925-(-981970),z=311085-311074,L=((1061933-702934)+202125)+-561076,C=298229+-298209;b=582914+-582879,p=-729200+729217;D=623459-623423,n=-33400+(170515-137099);X=(-1230736-(-534499))-(-696245),R=((-968234+1315608)+(1016947+-1107121))-257146;K=-234849+234875,r=(-281006-765458)-(-1046495),k=510967+-510952;E=819532+(-962745+143268),j=(905246-498020)-(953560+-546393),Y=305278+-305259;["\053"]=52140+(152497-204631),v=(154346+((-1783666-298014)-(-1013096)))-(-914245);w=237429+-237395;s=(((1028496+-3174241)-(-1037311))-(-891685))-(-216767),["\049"]=690525-690515;B=362554-362513,["\051"]=1029627-1029571,["\054"]=-504021+504084;x=43458-43406;g=-306354+(860171-553773),c=(-888270-(-516188))-((565668-((113754+-428155)-(-925522)))-(306521-(-20110))),m=-972553+972610,f=-333129-(-333179);F=-406171+406211,["\056"]=562429-562367;["\057"]=(27850-1033241)-(-1005421),G=702368+-702307,["\052"]=743251-(-826581+1569829);q=847440+-847387,l=234509+-234463,J=522989-522980;d=-265414-(-265452);t=834361+(33568-867916),U=-240642+240693;S=-411739+(607534-195790),y=-985056-(-985083),H=517230+(398592+-915818);O=127928-127904;u=(-670079-(-172512))-(920180+-1417769),a=(-774402+1728621)+-954198,["\050"]=-282205-(-282252);V=25618-(-566833-(-592422)),o=531029-531028;M=((715192-492313)+-277885)-(-55064);A=-662694+662754,T=-344170-(620880+-965087);I=-325888+325900;h=950362-950348,W=-928575-(-539400-389200),N=542992+-542964,["\048"]=(-446452+-600422)-(-1046916),Q=-980872+980895;e=-504403+504403}local U=math.floor local V=table.insert local S=type local H=string.len local e=q for q=(-415044+551374)+-136329,#e,312266-312265 do local h=e[q]if S(h)=="\115\116\114\105\110\103"then local S=H(h)local G={}local J=-830038-(-830039)local T=212417-212417 local R=-853477-(-853477)while J<=S do local q=B(h,J,J)local X=n[q]if X then T=T+X*((508862+-494262)-(-1402+15938))^((15339-15336)-R)R=R+(734697-734696)if R==857586+-857582 then R=278575+-278575 local q=U(T/(((410290-657743)+215231)+97758))local B=U((T%(370890-305354))/(-484751-(-1326120-(-1166691-(-325578)))))local X=T%((762210+-119513)-642441)V(G,F(q,B,X))T=-37177+37177 end elseif q=="\061"then V(G,F(U(T/((-878001-(-209606))+733931))))if J>=S or B(h,J+(794394+-794393),J+((783662+-516094)+-267567))~="\061"then V(G,F(U((T%(-429146+494682))/(-519948+520204))))end break end J=J+(909168+-909167)end e[q]=X(G)end end end return(function(q,F,n,U,V,S,H,l,b,j,e,C,G,i,P,J,R,h,r,T,X,w)R,r,w,G,J,P,j,l,X,h,e,C,i,b,T=function(q)local B,X=-989542+989543,q[-471484+471485]while X do h[X],B=h[X]-(313643+-313642),(599469-599468)+B if(625563+-1300440)-(-674877)==h[X]then h[X],e[X]=nil,nil end X=q[B]end end,function(q,B)local F=T(B)local n=function(n)return X(q,{n},B,F)end return n end,function(q,B)local F=T(B)local n=function()return X(q,{},B,F)end return n end,function()J=(816975-816974)+J h[J]=-902580-(-902581)return J end,384887+-384887,function(q,B)local F=T(B)local n=function(...)return X(q,{...},B,F)end return n end,function(q,B)local F=T(B)local n=function(n,U,V)return X(q,{n,U;V},B,F)end return n end,function(q,B)local F=T(B)local n=function(n,U,V,S)return X(q,{n,U,V,S},B,F)end return n end,function(X,n,U,V)local R,k,N,d,H,y,h,J,x,Y,t,z,Z,L,Q,E,f,A,s,u,o,W,K,g,O,M,c,I,T,P,m,v,a,p while X do if X<86266+(-445503+9736639)then if X<4744803-(-138055-28536)then if X<821329+1536169 then if X<541365+1303918 then if X<1346670-476253 then if X<78724+548190 then if X<801040+-435237 then x=B(1016656-(522676-(-496047)))X=11716036-152263 t=q[x]x=B(-624511+622419)a=t[x]W=a else X=H and-26303+2985762 or(123655-(-810170))+15318049 end else X=true X=8504532-(-1018906)end else if X<(87281-(-801691+999505))+1137959 then H=B(-953057-(-950959))X=q[H]h=B(-924326+922213)H=X(h)X=q[B(-262147-(-260038))]H={}else T=-928882-(-928883)J=e[U[(207640-782756)+575119]]h=J~=T X=h and 9757529-(-542118)or 987697+(138899+4970930)end end else if X<(714327+1458557)-(-32393)then if X<2656819-660319 then A=i(A)o=i(o)p=i(p)K=i(K)s=nil X=194204+3751633 z=i(z)v=i(v)else X=true X=X and 774168+(853228+644064)or-488386+(6185873-(241354-(-514064)))end else if X<-18361+2287649 then T=e[U[1033920+-1033914]]J=T==h X=-102471+8159075 H=J else N=680635-680629 X=e[u]f=(-375199+1192893)-817693 L=X(f,N)X=B(720741+-722820)q[X]=L N=B(-910994-(-908915))f=q[N]N=(1594434-565116)+(-710622+-318694)X=f>N X=X and 17525699-771734 or 10824064-782771 end end end else if X<117121+3724282 then if X<(((-1044613+-488780)-(-925350-(-68326)))+2893811)-(-737383)then if X<-619487+3371461 then if X<-883866+3336391 then L=e[J]O=L X=L and-1044347+14442811 or 570248+8306629 else X=1606592-(-542108)end else J=n[-174271-(-174273)]X=e[U[(1391524-599561)+-791962]]T=X h=n[-991243-((-385771+-1175305)-(-233194+(244128+-580766)))]X=T[J]X=X and 10522876-(((-992277+2459977)-634311)-782380)or 10498069-909584 end else if X<308970+2946136 then H=B(980608+(-426930-(((1257384-951493)-535005)-(-784883))))m=B(944829-946941)X=q[H]R=B(-774041-(-771941))W=w(4588704-231219,{})h=e[U[-151415+151419]]T=q[R]u=q[m]m={u(W)}u=819724-(861010+-41288)d={F(m)}P=d[u]R=T(P)T=B(-12450-(-478125+467765))J=h(R,T)h={J()}H=X(F(h))h=H J=e[U[(605708-(1536917-602790))-(-328424)]]X=J and-772434+2993049 or 8422353-365749 H=J else X=e[U[-409296-(-464965+55659)]]J=e[U[975169+-975158]]h[X]=J X=e[U[999277+-999265]]J={X(h)}X=q[B(-939099-(-937031))]H={F(J)}end end else if X<3844309-(-413876)then if X<(-127102-513249)+(-901012+5486234)then X=true X=X and-241297+13383623 or 970228+13122038 else O=O+f H=O<=L z=not N H=z and H z=O>=L z=N and z H=z or H z=9218188-(945252-698660)X=H and z H=-188892+2580500 X=X or H end else if X<4463975-(-78923-47028)then J=B(311223+-313337)H=4904815-(-183334)T=-11602+9686581 h=J^T X=H-h h=X H=B(-981592+979518)X=H/h H={X}X=q[B((-107778+849849)+(-617326-126841))]else u=nil X=5534266-(-372059)R=nil d=nil end end end end else if X<351288+((-982120+-21551)+8669333)then if X<-974339+6950560 then if X<5664818-587328 then if X<4228630-(-759038)then if X<-633735+(-613900+6192999)then X=q[B(-762861+760786)]H={}else T=-972158+13553797 J=B(-246050-(-243945))H=(-1479870-(-574254))+4137311 h=J^T X=H-h h=X H=B((606203-(-143142))+-751428)X=H/h H={X}X=q[B((-1308774-(-382990))+923678)]end else H=g X=M X=(-1406394-(-850171))+(185944+(235712+11126826))end else if X<-727960+6222898 then X=-756698+5831929 c=(-958852-(-848350))-(-110504)E=s[c]c=e[p]Q=E==c g=Q else H={J}X=q[B(762170-764258)]end end else if X<8338934-551160 then if X<7506156-868476 then X=(2640696-718765)-331575 J=e[U[807055-807052]]T=-71341+71559 h=J*T J=635237+-634980 H=h%J e[U[-898557-(-898560)]]=H else X=(15086095-774920)-(-228093-784811)Z=B(-690124-(-688032))W=q[Z]H=W end else if X<8665843-659990 then X=10222375-((689212-(-219576))-576745)Y=#x N=-145182-(-145182)I=Y==N else h=e[U[126724-126723]]H=#h h=-696322+696322 X=H==h X=X and 117764+8358298 or 11109871-(-723318-(-603324))end end end else if X<9777090-948731 then if X<996971+7477282 then if X<218237+8227312 then if X<-699429+9084183 then e[U[847380+-847375]]=H X=818400+15433474 h=nil else X=13308493-(302334+(-886751-(-151863)))end else X=true J=G()h=n e[J]=X T=B(-534624+532547)u=B(309938-312050)R=G()H=q[T]T=B(857384+(-160838-698661))X=H[T]T=G()e[T]=X X=r(873162-(566366+-626457),{})e[R]=X X=false P=G()e[P]=X d=q[u]m=w((600779+9473189)-(-62809),{P})u=d(m)X=u and(((635901+8278400)-(-449570))-693924)-(-610912-(-46515))or 475535+14112454 H=u end else if X<(410686+7885185)-(-261125)then J=e[U[27919+-27917]]T=(1603563-((99200-520771)+((1314283-(-374180-(-534294)))-(-183905))))-686947 h=J*T J=2063408823132-(-642710+200283)H=h+J h=35184372000297-(-88535)J=(688923-1046213)-(-357291)X=H%h e[U[(-548072+-165873)+713947]]=X X=6578015-(169631-(-310858))h=e[U[362020-362017]]H=h~=J else v=not K Y=Y+z I=Y<=N I=v and I v=Y>=N v=K and v I=v or I v=((-689789+24715)-(-246622-((831501+-933533)+(-254588-(-11206)))))+13537277 X=I and v I=7066278-(-1160738-(-237353))X=X or I end end else if X<559171+(-717251+9130706)then if X<835545+8126450 then e[J]=O X=e[J]X=X and 8431297-(-11295)or 501495-(-297361)else p=-187571-(-187572)z=G()k=-841245-((1187106-1042650)+-985701)e[z]=O y=653181-643181 v=788362-(-747914+1536176)K=B(960003-962068)o=-140082+140337 H=q[K]K=B((-396922-607372)+1002186)X=H[K]K=-21359-(-762511+741151)s=(787322+-214774)-572546 H=X(K,v)v=187573-187573 K=G()e[K]=H X=e[u]H=X(v,o)v=G()e[v]=H o=351991+-351990 X=e[u]A=e[K]H=X(o,A)Q=B(-707123+705023)o=G()e[o]=H H=e[u]A=H(p,s)H=-755115+755116 X=A==H s=B((-33066-873485)+904447)A=G()H=B(724671+(-1066555-(-339794)))e[A]=X M=q[Q]E=e[u]X=B(-679503+677417)c={E(k,y)}X=I[X]Q=M(F(c))M=B(785974-788078)g=Q..M p=s..g s=B(640551-642663)X=X(I,H,p)p=G()e[p]=X g=C(80272+10773656,{u;z,Z,T;J;Y,A,p;K,o;v,W})H=q[s]s={H(g)}X={F(s)}s=X X=e[A]X=X and 799061+((817581-1009429)+12237331)or-753662+15070652 end else if X<768532+((9720232-(1725680-747648))-224567)then d=e[P]X=13763192-(-824797)H=d else I={}s=B((761211+-85249)-678044)Y=G()z=G()x=nil N=b(-232927+8247106,{Y;W,Z;P})K=B(383897+(((-1903924-(797618+-1354174))-(-964263))+-2861))A=B((259549+728176)-989824)X=q[B(380940+(-1027114+644064))]e[Y]=I u=nil I=G()v={}Q=nil e[I]=N N={}e[z]=N N=q[K]p=e[z]d=nil o={[A]=p,[s]=Q}P=i(P)u=19346941412341-(-113291)K=N(v,o)N=l(564205+2309207,{z,Y;t;W;Z,I})Y=i(Y)I=i(I)Z=i(Z)T=K R=nil d=B(-69647-(-946084-(-878532)))J=N z=i(z)H={}W=i(W)x=34382218339960-(-138033)P=J(d,u)t=i(t)R=T[P]m=nil a=nil P=B(740623+-742695)W=B((215704+((-976710+-97992)-(-914801)))-57904)m=-865483+5043249188693 t=B(-649684-(-1480231-(-832623)))u=B(790302+-792386)q[P]=R d=J(u,m)P=T[d]u=B(-1005316-(-1003227))d=B(1025102+-1027173)q[d]=P d=q[u]m=q[W]a=J(t,x)Z=T[a]T=nil t=B(1370-3463)t=m[t]a=true W={t(m,Z,a)}J=nil u=d(F(W))d=u()end end end end end else if X<12166458-643903 then if X<-492646+10984388 then if X<-82575+10118279 then if X<398883+9433915 then if X<9223052-(-331948)then if X<-40716+(9345289-(-110502))then M=X c=(500653-726118)-(-225466)E=s[c]c=false Q=E==c X=Q and-623989+5723076 or 5670647-595416 g=Q else X=j(14546694-1041385,{R})L={X()}X=q[B(-424209+422131)]H={F(L)}end else X={}e[U[-450151+450153]]=X u=-159971+160226 Z=550715+(-982329-(-431615))H=e[U[-311250+311253]]P=-183436+35184372272268 R=H H=J%P e[U[-801066-(-1789639-(-988569))]]=H d=J%u m=B(-331913-(-329836))u=1033862+-1033860 P=d+u e[U[(-1437101-(88011-(309514+234941)))-(-980662)]]=P u=q[m]m=B(255813+-257924)d=u[m]u=d(h)d=B((734312-(616057+-337543))+-457905)T[J]=d m=-978069-(-978070)d=-275554-(-275787)W=u a=Z Z=27964-27964 t=a<Z Z=m-a X=11670898-469248 end else if X<((-531076+-442694)-(-417470))+10575063 then Y=34771+(740486-(246359-(-528897)))N=#x I=R(Y,N)X=879225+12220602 Y=d(x,I)N=e[t]v=449057+-449056 I=nil K=Y-v z=u(K)N[Y]=z Y=nil else X=1767777-(468065-(1727613-(699654+178971)))end end else if X<-723161+10876468 then if X<10731766-643929 then N=B(-188776-(-186697))X=q[N]N=B((448309-(-248992))+-699404)q[N]=X X=-887704+(-711324+11631175)else H={}X=true e[U[-476448+476449]]=X X=q[B(731348+-733435)]end else if X<-763690+11093757 then T=(870746-948750)+78036 J=e[U[-857735-(-857738)]]h=J%T R=e[U[159993+-159989]]W=877654+(370384+-1248036)u=e[U[710578-710576]]I=e[U[738999+-738996]]x=I-h I=640294+-640262 t=x/I a=-710345+710358 Z=a-t a=-714476-(-714732)m=W^Z d=u/m P=R(d)R=(214008+514958)+4294238330.0 T=P%R m=239883+-239882 P=(-704541-(-965194))-(-230562+491213)R=P^h J=T/R R=e[U[-187249+((1565815-(1589635-585960))+-374887)]]u=J%m W=(-1838250-(-1038583))-(-1418769-(-618846))m=4295644248.0-676952 d=u*m X=((-624763+1271662)-957487)+11540453 P=R(d)R=e[U[344467-344463]]d=R(J)T=P+d P=343459-(-276413+554336)R=T%P u=-162230+(-702279-(-930045))d=T-R P=d/u u=-56305+56561 d=R%u m=R-d R=nil u=m/W W=686965-686709 m=P%W Z=P-m J=nil W=Z/a P=nil T=nil Z={d,u;m;W}e[U[-983611+983612]]=Z d=nil h=nil m=nil W=nil u=nil else X=6285027-378702 end end end else if X<-1023927+12187428 then if X<10814982-(704698+(89553-(-1022441+1856551)))then if X<(890231+-283083)+(641789+9597299)then if X<11447138-916257 then J=e[U[(-492391-486787)-(-979180)]]T=e[U[-573090+((-1138875-(-921294))-(-790674))]]h=J==T X=1029250-515811 H=h else e[J]=g k=-523786+(158983-(-364804))c=e[o]E=c+k Q=s[E]M=a+Q Q=-566489-(-566745)X=M%Q a=X X=2640899-752988 E=e[v]Q=t+E E=-742561+742817 M=Q%E t=M end else R=220846-220845 P=(148544+-324454)+175912 J=e[U[-259333+259334]]T=J(R,P)J=1025933-1025932 h=T==J X=h and-190671-(-704110)or(-481120+-489070)+11483364 H=h end else if X<507471+10406841 then X=true X=X and 996689+1479575 or 681801+8841637 else X=(-708879-(648899+-1691049))+1554640 e[J]=H end end else if X<-166660+11424270 then if X<12199948-992156 then Z=Z+a m=Z<=W x=not t m=x and m x=Z>=W x=t and x m=x or m x=-155733+11437691 X=m and x m=535081+4195468 X=X or m else T=B(-245901-(-243834))X=q[B(-479783+(-343720+821437))]J=q[T]T=B(89781+((672706+-1180069)+415501))h=J[T]T=e[U[20043+-20042]]J={h(T)}H={F(J)}end else if X<-958192+12260652 then f=B((-184779-(1039783+-353710))+868775)m=Z L=q[f]f=B(644893+-646987)O=L[f]L=O(h,m)O=e[U[(739705-(-242769))-982468]]f=O()Y=L+f X=271918+10929732 I=Y+d Y=202041-201785 m=nil x=I%Y f=(845129+87735)+-932863 d=x Y=T[J]L=d+f O=R[L]I=Y..O T[J]=I else T=e[U[((-75385-(-234378))+-279815)-(-120831)]]X={}R=T h=X J=901802+-901801 X=-269163+13780032 T=451773+(-630808+179036)P=T T=302592+-302592 d=P<T T=J-P end end end end else if X<787747+13021689 then if X<13092791-(-60223)then if X<12735108-(-154310)then if X<61681+12754217 then if X<-236909+12363998 then X=Z X=W and 278203+15045876 or-14690+7329217 H=W else I=Y v=I x[I]=v I=nil X=9501179-(1418926-((587812+-924896)+911183))end else g=e[J]H=g X=g and(-746245+(839192-(-722917)))+8582819 or(-714232+-307312)+12013803 end else if X<13064451-(-751871-(-901753-(-226928)))then N=105346+-105346 Y=#x I=Y==N X=I and-509261+(371393+((759231+-584319)+9264863))or 913482+8976850 else H=B(867588-869667)h=B(-973035+970932)X=q[H]H=q[h]h=B(-858879-(-563033-(1265410-971667)))q[h]=X h=B(((-564825+293169)+1278035)-1008458)q[h]=H X=(-563910+-358282)+4860922 h=e[U[-884308-(-884309)]]J=h()end end else if X<14504746-(241581-(220391+-976796))then if X<767564+12669797 then L=a==t X=-180279+9057156 O=L else X=3597525-(-341205)end else if X<-49403+13681410 then T=T+P u=not d J=T<=R J=u and J u=T>=R u=d and u J=u or J u=((-828713-(-224358+-31459))+15119417)-(75739+577575)X=J and u J=((657261+3426662)-365482)-51299 X=X or J else I=nil d=nil W=i(W)J=i(J)t=nil m=nil x=nil P=i(P)a=nil d=B(728023+(-1070499-(-340411)))a={}Z=i(Z)R=i(R)T=i(T)T=nil J=nil u=i(u)Y=i(Y)u=B(-274719+272654)P=q[d]d=B(879747-881832)R=P[d]P=G()e[P]=R Y=285773-285517 W=B(-756974-(-754897))d=q[u]u=B(-714608-(-712500))R=d[u]N=Y x={}Z=G()m=B(-989733-(-987666))u=q[m]m=B(156947-159028)d=u[m]m=q[W]X=8486725-(-169627)W=B(827522-829595)u=m[W]m=139927+-139927 t=G()W=G()e[W]=m I=980659-980658 m=-1044426+1044428 Y=-827525-(-1775420-(-947894))e[Z]=m z=Y m={}e[t]=a Y=-878975+(1220443-341468)K=z<Y a=76558+-76558 Y=I-z end end end else if X<(975704-834647)+14647232 then if X<21353+14302409 then if X<717337+13500970 then if X<(664329+354172)+13054160 then J=T m=-886214+886214 X=e[U[531377-531376]]W=-571974+572229 u=X(m,W)h[J]=u X=(-894617+-122738)+14528224 J=nil else H={}X=q[B(-899780+(105672+(-256418-(-1048456))))]end else M=e[J]X=M and 14639678-((-1010-873567)+(281292+(84552+-150290)))or 10830702-(-10595)g=M end else if X<15358719-783604 then T=(-579676-(-170238))+409438 h=B((1289976-520247)+-771827)X=q[h]J=e[U[-180007-(-180015)]]h=X(J,T)X=11880519-410766 else m=B((812946+-488338)+-326675)u=B(-281427-(960680+-1240042))d=H t=B(264408+(63304-329779))H=q[u]u=B(-197175-(-195067))X=H[u]u=G()e[u]=X H=q[m]m=B(270244-272324)X=H[m]a=q[t]m=X W=a Z=X X=a and((-282842+362041)+22242)+-61943 or(11369131-701612)-(-896254)end end else if X<-436511+16371637 then if X<-518015+(((16756706-908588)-(-766851))-797725)then Q=358983-(-192005-(-550987))X=(10047440-(-135810))-(-658047)M=s[Q]g=M else W=G()e[W]=H X=e[u]Z=(46337+-850904)+804570 a=(-1171821-(-776941))+394945 x=B(-878147+876035)H=X(Z,a)X=-311430-(-311430)I=j(3953373-(-1004888),{})Z=G()e[Z]=H a=X H=q[x]X=(945237+30130)-975367 x={H(I)}t=X X={F(x)}H=950161+-950159 f=B((114573-857611)+740938)x=X X=x[H]I=X H=B((-1975985-(-952072))+1021822)X=q[H]Y=e[T]L=q[f]f=L(I)L=B(-323854-(-321764))O=Y(f,L)Y={O()}H=X(F(Y))Y=G()e[Y]=H O=e[Z]H=(-288654+36216)-(-252439)L=O O=299154+-299153 f=O O=30406-30406 X=-632122+4577959 N=f<O O=H-f end else if X<1022061+15420328 then X=e[U[(116454-169204)+52757]]X=X and-716057+15190126 or-217220+(((441716-(-48489))-144064)+11340832)else z=B(526662-528765)f=B((-784527+1442159)-659732)X=q[f]N=q[z]f=X(N)X=B(-295927-(-293848))q[X]=f X=10109209-(-510018+587080)end end end end end end end X=#V return F(H)end,{},{},function(q,B)local F=T(B)local n=function(n,U,V,S,H)return X(q,{n,U;V;S;H},B,F)end return n end,function(q)h[q]=h[q]-(-507643+507644)if 316659+-316659==h[q]then h[q],e[q]=nil,nil end end,function(q,B)local F=T(B)local n=function(n,U)return X(q,{n,U},B,F)end return n end,function(q)for B=792215-792214,#q,((-289118+1479788)-841722)-348947 do h[q[B]]=(-223276+223277)+h[q[B]]end if n then local X=n(true)local F=V(X)F[B(-965984+963885)],F[B(33511-35608)],F[B(-778948-(-776846))]=q,R,function()return-542534+((263412-27215)-(-86754))end return X else return U({},{[B(-44363-(-42266))]=R;[B((-273153+-297721)-(-642100-(-105482+32157)))]=q,[B(-902028-(-877086+-22840))]=function()return-1153450-(-933867)end})end end return(P(8821439-352072,{}))(F(H))end)(getfenv and getfenv()or _ENV,unpack or table[B(-1047464+1045372)],newproxy,setmetatable,getmetatable,select,{...})end)(...)
+repeat wait(0.1)until game:IsLoaded()
+Settings = {
+    ["On Screen Trackers"] = false,
+    ["Performance"] = {
+        ["Disable 3D Rendering"] = false,
+        ["Diable Orb Rendering"] = true,
+        ["Disable Lootbags"] = true
+    },
+    ["Auto Collect"] = {
+        ["Orbs"] = true,
+        ["Lootbags"] = true
+    },
+    ["Auto Mailbox"] = {
+        ["Recipient"] = "ur main acc user", -- Person To Send To
+        ["Min Dias"] = 1000000000, -- Minumum Gems
+        ["Enabled"] = false
+    },
+	["Multipliers"] = {
+		["Giant Chest"] = 0,
+        ["Chest"] = 0,
+        ["Small Chest"] = 0,
+        ["Vault"] = 0,
+        ["Safe"] = 3,
+        ["Present"] = 5
+	},
+    ["Webhooks"] = {
+        ["Server Hop Webhook"] = "https://discord.com/api/webhooks/1089184467249287208/PMQHqUe965adSJ2MthHTdyTTK5Mub6ePx3mIR2vdgnweGoHRid6rLs8RQWIftzBYAaez",
+        ["Time Frame Webhook"] = "https://discord.com/api/webhooks/1089184467249287208/PMQHqUe965adSJ2MthHTdyTTK5Mub6ePx3mIR2vdgnweGoHRid6rLs8RQWIftzBYAaez",
+        ["Timeframe"] = 300 -- Seconds
+    },
+    ["Pet Team"] = {
+        ["Mode"] = "Best", -- Best Or Manual: Best = Highest Power, Manual = All Pets With A Certain Nickname
+        ["Nickname"] = "Farm"
+    },
+    ["Fruit"] = {
+        ["Farm Fruit If Low"] = true,
+        ["Min Fruit"] = 150, -- Starts Farming If Below This
+        ["Max Fruit"] = 200, -- Stops Farming Once Above This
+        ["Mode"] = "Mystic Mine" -- Pixel Vault or Server Hop
+    },
+    ["Boosts"] = {
+        ["Triple Damage"] = true,
+        ["Server Damage"] = true
+    }
+}
+
+local Http = game:GetService("HttpService")
+
+writefile("v4config.txt", Http:JSONEncode(Settings))
+
+Http = game:GetService("HttpService")
+
+Settings = Http:JSONDecode(readfile("v4config.txt"))
+
+if not game:IsLoaded() then
+    while not game:IsLoaded() do wait(1) end
+end
+
+if Settings["Performance"]["Disable 3D Rendering"] then game:GetService("RunService"):Set3dRenderingEnabled(false) end
+
+local totallabelsize = 0
+
+function makelabel()
+    local sg = Instance.new("ScreenGui", game.Players.LocalPlayer.PlayerGui)
+    
+    local label = Instance.new("TextLabel")
+    label.Size = UDim2.new(0.4, 0, 0.2, 0)
+    label.Position = UDim2.new(0.05, 0, 0.95 - totallabelsize)
+    label.BackgroundColor3 = Color3.new(0, 0, 0)
+    label.BackgroundTransparency = 0
+    label.BorderSizePixel = 0
+    label.TextColor3 = Color3.new(1, 1, 1)
+    label.Font = Enum.Font.SourceSansBold
+    label.TextScaled = true
+    label.TextWrapped = true
+    label.Text = "Label"
+    label.Parent = sg
+    if not Settings["On Screen Trackers"] then sg.Enabled = false end
+    
+    label.ClipsDescendants = true
+    
+    local corner = Instance.new("UICorner")
+    corner.CornerRadius = UDim.new(0, 5)
+    corner.Parent = label
+    
+    totallabelsize = totallabelsize + 0.25
+    
+    return label
+end
+
+local label1 = makelabel()
+local label2 = makelabel()
+local label3 = makelabel()
+
+label1.Text = "🌟 | Coins Remaining"
+label2.Text = "💎 | Gems Earned"
+label3.Text = "🕒 | Time Elapsed"
+
+label1.Position = UDim2.new(0.05, 0, 0.95 - totallabelsize + 0.05)
+label2.Position = UDim2.new(0.05, 0, 0.95 - totallabelsize + 0.05 + 0.25)
+label3.Position = UDim2.new(0.05, 0, 0.95 - totallabelsize + 0.05 + 0.5)
+local CoinsLeft = 0
+local TimeElapsed = 0
+local timer = coroutine.create(function()
+    while 1 do
+        TimeElapsed = TimeElapsed + 1
+        label3.Text = "🕒 | Time Elapsed: " .. TimeElapsed .. "s"
+
+        wait(1)
+    end
+end)
+coroutine.resume(timer)
+local coinst = coroutine.create(function()
+    while 1 do
+        label1.Text = "🌟 | Coins Remaining: " .. CoinsLeft
+        wait(1)
+    end
+end)
+coroutine.resume(coinst)
+
+local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"));
+while not v1.Loaded do
+    game:GetService("RunService").Heartbeat:Wait();
+end;
+AREATOCHECK = "Mystic Mine"
+local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+local Fire, Invoke = Network.Fire, Network.Invoke
+
+local old
+old = hookfunction(getupvalue(Fire, 1), function(...)
+   return true
+end)
+if Settings["Performance"]["Disable Orb Rendering"] then
+	game:GetService("Workspace")["__THINGS"].Orbs.ChildAdded:Connect(function(v)
+		pcall(function()
+			v.Orb.Enabled = false
+		end)
+	end)
+end
+if Settings["Performance"]["Disable Lootbags"] then
+	game:GetService("Workspace")["__THINGS"].Lootbags.ChildAdded:Connect(function(v)
+		pcall(function()
+			v.Transparency = 1
+			v.ParticleEmitter:Destroy()
+		end)
+	end)
+end
+
+if Settings["Auto Collect"]["Orbs"] then
+	game.Workspace['__THINGS'].Orbs.ChildAdded:Connect(function(v)
+		Fire("Claim Orbs", {v.Name})
+	end)
+end
+if Settings["Auto Collect"]["Lootbags"] then
+	game.Workspace['__THINGS'].Lootbags.ChildAdded:Connect(function(v)
+		Fire("Collect Lootbag", v.Name, v.Position)
+	end)
+end
+
+Lib = require(game:GetService("ReplicatedStorage").Library)
+
+local StartGems = Lib.Save.Get().Diamonds
+function add_suffix(inte)
+    local gems = inte
+    local gems_formatted
+
+    if gems >= 1000000000000 then  -- if gems are greater than or equal to 1 trillion
+        gems_formatted = string.format("%.1ft", gems / 1000000000000)  -- display gems in trillions with one decimal point
+    elseif gems >= 1000000000 then  -- if gems are greater than or equal to 1 billion
+        gems_formatted = string.format("%.1fb", gems / 1000000000)  -- display gems in billions with one decimal point
+    elseif gems >= 1000000 then  -- if gems are greater than or equal to 1 million
+        gems_formatted = string.format("%.1fm", gems / 1000000)  -- display gems in millions with one decimal point
+    elseif gems >= 1000 then  -- if gems are greater than or equal to 1 thousand
+        gems_formatted = string.format("%.1fk", gems / 1000)  -- display gems in thousands with one decimal point
+    else  -- if gems are less than 1 thousand
+        gems_formatted = tostring(gems)  -- display gems as is
+    end
+
+    return gems_formatted
+end
+local gemc = coroutine.create(function()
+    while 1 do
+        cg = Lib.Save.Get().Diamonds
+        label2.Text = "💎 | Gems Earned: " .. add_suffix(cg - StartGems)
+
+        wait(1)
+    end
+end)
+coroutine.resume(gemc)
+
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local HttpService = game:GetService("HttpService")
+local InputService = game:GetService('UserInputService')
+local RunService = game:GetService('RunService')
+local ContentProvider = game:GetService("ContentProvider")
+local banSuccess, banError = pcall(function() 
+		local Blunder = require(game:GetService("ReplicatedStorage"):WaitForChild("X", 10):WaitForChild("Blunder", 10):WaitForChild("BlunderList", 10))
+		if not Blunder or not Blunder.getAndClear then LocalPlayer:Kick("Error while bypassing the anti-cheat! (Didn't find blunder)") end
+ 
+		local OldGet = Blunder.getAndClear
+		setreadonly(Blunder, false)
+		local function OutputData(Message)
+		   print("-- PET SIM X BLUNDER --")
+		   print(Message .. "\n")
+		end
+ 
+		Blunder.getAndClear = function(...)
+		   local Packet = ...
+			for i,v in next, Packet.list do
+			   if v.message ~= "PING" then
+				   OutputData(v.message)
+				   table.remove(Packet.list, i)
+			   end
+		   end
+		   return OldGet(Packet)
+		end
+ 
+		setreadonly(Blunder, true)
+	end)
+ 
+	if not banSuccess then
+		LocalPlayer:Kick("Error while bypassing the anti-cheat! (".. banError ..")")
+		return
+	end
+ 
+	local Library = require(game:GetService("ReplicatedStorage").Library)
+	assert(Library, "Oopps! Library has not been loaded. Maybe try re-joining?") 
+	while not Library.Loaded do task.wait() end
+ 
+	Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+	Humanoid = Character:WaitForChild("Humanoid")
+	HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+ 
+ 
+	local bypassSuccess, bypassError = pcall(function()
+		if not Library.Network then 
+			LocalPlayer:Kick("Network not found, can't bypass!")
+		end
+ 
+		if not Library.Network.Invoke or not Library.Network.Fire then
+			LocalPlayer:Kick("Network Invoke/Fire was not found! Failed to bypass!")
+		end
+ 
+		hookfunction(debug.getupvalue(Library.Network.Invoke, 1), function(...) return true end)
+		-- Currently we don't need to hook Fire, since both Invoke/Fire have the same upvalue, this may change in future.
+		-- hookfunction(debug.getupvalue(Library.Network.Fire, 1), function(...) return true end)
+ 
+		local originalPlay = Library.Audio.Play
+		Library.Audio.Play = function(...) 
+			if checkcaller() then
+				local audioId, parent, pitch, volume, maxDistance, group, looped, timePosition = unpack({ ... })
+				if type(audioId) == "table" then
+					audioId = audioId[Random.new():NextInteger(1, #audioId)]
+				end
+				if not parent then
+					warn("Parent cannot be nil", debug.traceback())
+					return nil
+				end
+				if audioId == 0 then return nil end
+ 
+				if type(audioId) == "number" or not string.find(audioId, "rbxassetid://", 1, true) then
+					audioId = "rbxassetid://" .. audioId
+				end
+				if pitch and type(pitch) == "table" then
+					pitch = Random.new():NextNumber(unpack(pitch))
+				end
+				if volume and type(volume) == "table" then
+					volume = Random.new():NextNumber(unpack(volume))
+				end
+				if group then
+					local soundGroup = game.SoundService:FindFirstChild(group) or nil
+				else
+					soundGroup = nil
+				end
+				if timePosition == nil then
+					timePosition = 0
+				else
+					timePosition = timePosition
+				end
+				local isGargabe = false
+				if not pcall(function() local _ = parent.Parent end) then
+					local newParent = parent
+					pcall(function()
+						newParent = CFrame.new(newParent)
+					end)
+					parent = Instance.new("Part")
+					parent.Anchored = true
+					parent.CanCollide = false
+					parent.CFrame = newParent
+					parent.Size = Vector3.new()
+					parent.Transparency = 1
+					parent.Parent = workspace:WaitForChild("__DEBRIS")
+					isGargabe = true
+				end
+				local sound = Instance.new("Sound")
+				sound.SoundId = audioId
+				sound.Name = "sound-" .. audioId
+				sound.Pitch = pitch and 1
+				sound.Volume = volume and 0.5
+				sound.SoundGroup = soundGroup
+				sound.Looped = looped and false
+				sound.MaxDistance = maxDistance and 100
+				sound.TimePosition = timePosition
+				sound.RollOffMode = Enum.RollOffMode.Linear
+				sound.Parent = parent
+				if not require(game:GetService("ReplicatedStorage"):WaitForChild("Library"):WaitForChild("Client")).Settings.SoundsEnabled then
+					sound:SetAttribute("CachedVolume", sound.Volume)
+					sound.Volume = 0
+				end
+				sound:Play()
+				getfenv(originalPlay).AddToGarbageCollection(sound, isGargabe)
+				return sound
+			end
+ 
+			return originalPlay(...)
+		end
+ 
+	end)
+ 
+	if not bypassSuccess then
+		print(bypassError)
+		LocalPlayer:Kick("Error while bypassing network, try again or wait for an update!")
+		return
+	end
+ 
+function FrTeleportToWorld(world, area)
+        local Library = require(game:GetService("ReplicatedStorage").Library)
+		Library.WorldCmds.Load(world)
+		wait(0.25)
+		local areaTeleport = Library.WorldCmds.GetMap().Teleports:FindFirstChild(area)
+		Library.Signal.Fire("Teleporting")
+		task.wait(0.25)
+		local Character = game.Players.LocalPlayer.Character
+		local Humanoid = Character.Humanoid
+		local HumanoidRootPart = Character.HumanoidRootPart
+		Character:PivotTo(areaTeleport.CFrame + areaTeleport.CFrame.UpVector * (Humanoid.HipHeight + HumanoidRootPart.Size.Y / 2))
+		Library.Network.Fire("Performed Teleport", area)
+		task.wait(0.25)
+end
+function FrTeleportToArea(world, area)
+    local areaTeleport = Library.WorldCmds.GetMap().Teleports:FindFirstChild(area)
+		local Character = game.Players.LocalPlayer.Character
+		local Humanoid = Character.Humanoid
+		local HumanoidRootPart = Character.HumanoidRootPart
+		Character:PivotTo(areaTeleport.CFrame + areaTeleport.CFrame.UpVector * (Humanoid.HipHeight + HumanoidRootPart.Size.Y / 2))
+		Library.Network.Fire("Performed Teleport", area)
+ 
+end
+
+function GetOranges()
+    local FruitLib = require(game.ReplicatedStorage.Library.Client.FruitCmds)
+
+    local Fruit = FruitLib.Directory.Orange
+    return math.floor(FruitLib.Get(game.Players.LocalPlayer, Fruit))
+end
+
+function get_coins_in_area(area)
+    local allCoins = Invoke("Get Coins") -- this gets every coin in the world you are in
+    local coinsInArea = {} -- Make a blank list that will store all the ids of the coins in the area
+    
+    for coinid,coindata in pairs(allCoins) do -- Loop through every coin in the world
+        if coindata.a == area and not string.find(coindata.n, "Chest") then -- if the area the coin is in is in the area you specify then...
+            table.insert(coinsInArea, coinid) -- add the coin id to the coinsinarea table
+        end
+    end
+    return coinsInArea
+end
+
+function attack_coin(id, equip)
+    local v86 = Invoke("Join Coin", id, equip)
+    for v88, v89 in pairs(v86) do
+        Fire("Farm Coin", id, v88);
+    end
+end
+
+function wait_until_broken(id)
+    while 1 do
+        wait(0.01)
+        found = false
+        for i,v in pairs(debug.getupvalue(getsenv(game.Players.LocalPlayer.PlayerScripts.Scripts.Game.Coins).DestroyAllCoins, 1)) do
+            if i == id then
+                found = true
+            end
+        end
+        if not found then break end
+    end
+end
+
+Invoke("Unequip All Pets")
+
+if Settings["Pet Team"]["Mode"] == "Best" then Invoke("Equip Best Pets") end
+if Settings["Pet Team"]["Mode"] == "Manual" then
+	local Pets = Lib.Save.Get().Pets
+	petstoe = {}
+	for i,v in pairs(Pets) do
+		if v.nk == Settings["Pet Team"]["Nickname"] then
+			table.insert(petstoe, v.uid)
+		end
+	end
+	for i,v in pairs(petstoe) do
+		cert = coroutine.create(function()
+		Invoke("Equip Pet", v)
+		end)
+		coroutine.resume(cert)
+	end
+end
+
+wait(1)
+
+if not isfile("fruitfarmT.txt") then writefile("fruitfarmT.txt", "false") end
+
+if GetOranges() >= Settings["Fruit"]["Max Fruit"] then writefile("fruitfarmT.txt", "false") end
+
+
+if Settings["Fruit"]["Farm Fruit If Low"] == true then
+if GetOranges() <= Settings["Fruit"]["Min Fruit"] or readfile("fruitfarmT.txt") == "true" then
+    writefile("fruitfarmT.txt", "true")
+    if Settings["Fruit"]["Mode"] == "Pixel Vault" then
+        FrTeleportToWorld("Pixel", "Pixel Vault")
+        wait(3)
+        while 1 do
+            wait(1)
+            local equipped = {}
+
+            local lib = require(game.ReplicatedStorage.Library)
+
+            p = lib.Save.Get().PetsEquipped
+
+            for petid, petdata in pairs(p) do
+            table.insert(equipped, petid)
+            end
+
+            local AllCoins = get_coins_in_area("Pixel Vault")
+
+            for i,v in pairs(AllCoins) do
+                attack_coin(v, equipped)
+                wait(0.05)
+                wait_until_broken(i)
+            end
+            if GetOranges() >= Settings["Fruit"]["Max Fruit"] then
+                writefile("fruitfarmT.txt", "false")
+                break
+            end
+        end
+    end
+    if Settings["Fruit"]["Mode"] == "Server Hop" then
+        if not game:IsLoaded() then
+    while not game:IsLoaded() do wait(1) end
+
+    wait(5)
+end
+
+local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+local Fire, Invoke = Network.Fire, Network.Invoke
+
+-- Hooking the _check function in the module to bypass the anticheat.
+
+local old
+old = hookfunction(getupvalue(Fire, 1), function(...)
+   return true
+end)
+
+local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"));
+while not v1.Loaded do
+    game:GetService("RunService").Heartbeat:Wait();
+end;
+local ReplicatedStorage = game:GetService("ReplicatedStorage")
+local Players = game:GetService("Players")
+local LocalPlayer = Players.LocalPlayer
+local HttpService = game:GetService("HttpService")
+local InputService = game:GetService('UserInputService')
+local RunService = game:GetService('RunService')
+local ContentProvider = game:GetService("ContentProvider")
+local banSuccess, banError = pcall(function() 
+		local Blunder = require(game:GetService("ReplicatedStorage"):WaitForChild("X", 10):WaitForChild("Blunder", 10):WaitForChild("BlunderList", 10))
+		if not Blunder or not Blunder.getAndClear then LocalPlayer:Kick("Error while bypassing the anti-cheat! (Didn't find blunder)") end
+		
+		local OldGet = Blunder.getAndClear
+		setreadonly(Blunder, false)
+		local function OutputData(Message)
+		   print("-- PET SIM X BLUNDER --")
+		   print(Message .. "\n")
+		end
+		
+		Blunder.getAndClear = function(...)
+		   local Packet = ...
+			for i,v in next, Packet.list do
+			   if v.message ~= "PING" then
+				   OutputData(v.message)
+				   table.remove(Packet.list, i)
+			   end
+		   end
+		   return OldGet(Packet)
+		end
+		
+		setreadonly(Blunder, true)
+	end)
+
+	if not banSuccess then
+		LocalPlayer:Kick("Error while bypassing the anti-cheat! (".. banError ..")")
+		return
+	end
+	
+	local Library = require(game:GetService("ReplicatedStorage").Library)
+	assert(Library, "Oopps! Library has not been loaded. Maybe try re-joining?") 
+	while not Library.Loaded do task.wait() end
+	
+	Character = LocalPlayer.Character or LocalPlayer.CharacterAdded:Wait()
+	Humanoid = Character:WaitForChild("Humanoid")
+	HumanoidRootPart = Character:WaitForChild("HumanoidRootPart")
+	
+	
+	local bypassSuccess, bypassError = pcall(function()
+		if not Library.Network then 
+			LocalPlayer:Kick("Network not found, can't bypass!")
+		end
+		
+		if not Library.Network.Invoke or not Library.Network.Fire then
+			LocalPlayer:Kick("Network Invoke/Fire was not found! Failed to bypass!")
+		end
+		
+		hookfunction(debug.getupvalue(Library.Network.Invoke, 1), function(...) return true end)
+		-- Currently we don't need to hook Fire, since both Invoke/Fire have the same upvalue, this may change in future.
+		-- hookfunction(debug.getupvalue(Library.Network.Fire, 1), function(...) return true end)
+		
+		local originalPlay = Library.Audio.Play
+		Library.Audio.Play = function(...) 
+			if checkcaller() then
+				local audioId, parent, pitch, volume, maxDistance, group, looped, timePosition = unpack({ ... })
+				if type(audioId) == "table" then
+					audioId = audioId[Random.new():NextInteger(1, #audioId)]
+				end
+				if not parent then
+					warn("Parent cannot be nil", debug.traceback())
+					return nil
+				end
+				if audioId == 0 then return nil end
+				
+				if type(audioId) == "number" or not string.find(audioId, "rbxassetid://", 1, true) then
+					audioId = "rbxassetid://" .. audioId
+				end
+				if pitch and type(pitch) == "table" then
+					pitch = Random.new():NextNumber(unpack(pitch))
+				end
+				if volume and type(volume) == "table" then
+					volume = Random.new():NextNumber(unpack(volume))
+				end
+				if group then
+					local soundGroup = game.SoundService:FindFirstChild(group) or nil
+				else
+					soundGroup = nil
+				end
+				if timePosition == nil then
+					timePosition = 0
+				else
+					timePosition = timePosition
+				end
+				local isGargabe = false
+				if not pcall(function() local _ = parent.Parent end) then
+					local newParent = parent
+					pcall(function()
+						newParent = CFrame.new(newParent)
+					end)
+					parent = Instance.new("Part")
+					parent.Anchored = true
+					parent.CanCollide = false
+					parent.CFrame = newParent
+					parent.Size = Vector3.new()
+					parent.Transparency = 1
+					parent.Parent = workspace:WaitForChild("__DEBRIS")
+					isGargabe = true
+				end
+				local sound = Instance.new("Sound")
+				sound.SoundId = audioId
+				sound.Name = "sound-" .. audioId
+				sound.Pitch = pitch and 1
+				sound.Volume = volume and 0.5
+				sound.SoundGroup = soundGroup
+				sound.Looped = looped and false
+				sound.MaxDistance = maxDistance and 100
+				sound.TimePosition = timePosition
+				sound.RollOffMode = Enum.RollOffMode.Linear
+				sound.Parent = parent
+				if not require(game:GetService("ReplicatedStorage"):WaitForChild("Library"):WaitForChild("Client")).Settings.SoundsEnabled then
+					sound:SetAttribute("CachedVolume", sound.Volume)
+					sound.Volume = 0
+				end
+				sound:Play()
+				getfenv(originalPlay).AddToGarbageCollection(sound, isGargabe)
+				return sound
+			end
+			
+			return originalPlay(...)
+		end
+	
+	end)
+	
+	if not bypassSuccess then
+		print(bypassError)
+		LocalPlayer:Kick("Error while bypassing network, try again or wait for an update!")
+		return
+	end
+
+function FrTeleportToWorld(world, area)
+        local Library = require(game:GetService("ReplicatedStorage").Library)
+		Library.WorldCmds.Load(world)
+		wait(0.25)
+		local areaTeleport = Library.WorldCmds.GetMap().Teleports:FindFirstChild(area)
+		Library.Signal.Fire("Teleporting")
+		task.wait(0.25)
+		local Character = game.Players.LocalPlayer.Character
+		local Humanoid = Character.Humanoid
+		local HumanoidRootPart = Character.HumanoidRootPart
+		Character:PivotTo(areaTeleport.CFrame + areaTeleport.CFrame.UpVector * (Humanoid.HipHeight + HumanoidRootPart.Size.Y / 2))
+		Library.Network.Fire("Performed Teleport", area)
+		task.wait(0.25)
+end
+function FrTeleportToArea(world, area)
+    local areaTeleport = Library.WorldCmds.GetMap().Teleports:FindFirstChild(area)
+		local Character = game.Players.LocalPlayer.Character
+		local Humanoid = Character.Humanoid
+		local HumanoidRootPart = Character.HumanoidRootPart
+		Character:PivotTo(areaTeleport.CFrame + areaTeleport.CFrame.UpVector * (Humanoid.HipHeight + HumanoidRootPart.Size.Y / 2))
+		Library.Network.Fire("Performed Teleport", area)
+    
+end
+local TimeElapsed = 0
+    local ThingsBroke = 0
+    local STOP = false
+    local MADE = false
+    
+    HttpService = game:GetService("HttpService")
+    
+    local timer = coroutine.create(function()
+        while 1 do
+            TimeElapsed = TimeElapsed + 1
+            wait(1)
+        end
+    end)
+    
+    coroutine.resume(timer)
+    SettingsBreakable = {
+        WorldHop = true, -- If This Is True It Will Break Stuff In Every World Up To Cat World
+        Area = "", -- If World Hop Is False And This Isnt Blank It Will Only Farm In This Area
+        AutoCollectOrbs = true, -- If This Is True It Will Collect The Orbs Automatically
+        Loop = false, -- If This Is True It Will Happen All Again And Again (Only Enable If Server Hop Is False)
+        WaitTime = 20, -- If Something Isnt Broken Past This Time Then Move On To The Next Thing 1 = 0.1s
+        ThingsToBreak = {
+        	"Apple",
+        	"Orange",
+        	"Pineapple",
+        	"Pear",
+        	"Rainbow Fruit",
+        	"Banana"
+        } -- List Of Things To Break, If The Name Of The Breakable Contains Any Of These It Will Break It
+    }
+    WebhookLayout = { -- {amount} | shows the amount of breakables broken {time} | Shows the time it took finish (seconds)
+        Title = "Breakables Farmed", -- The Title Of The Webhook
+        Description = "You Broke ``{amount}`` **Things** In ``{time}`` **Seconds**!", -- Description Of The Webhook
+        Color = tonumber(0x6967d5) -- The Color Of The Webhook
+    } -- Will be sent after each server hop if the Webhook thing in SettingsBreakable has a link
+    
+    function PostWebhook(amount, seconds)
+        local StatsPath = game:GetService("Players").LocalPlayer.PlayerGui.Main.Right
+        function GetCoinsAmount(name)
+            return StatsPath[name].Amount.Text
+        end
+        local thingsfarming = ""
+        local coins = ":coin: **Coins: ** ``" .. GetCoinsAmount("Coins") .. "``\n:coin: **Fantasy Coins: ** ``" .. GetCoinsAmount("Fantasy Coins") .. "``\n:coin: **Tech Coins: ** ``" .. GetCoinsAmount("Tech Coins") .. "``\n:coin: **Rainbow Coins: ** ``" .. GetCoinsAmount("Rainbow Coins") .. "``\n:coin: **Cartoon Coins: ** ``" .. GetCoinsAmount("Cartoon Coins") .. "``\n:gem: **Diamonds: ** ``" .. GetCoinsAmount("Diamonds") .. "``"
+        local title = WebhookLayout.Title
+        title = string.gsub(title, "{amount}", tostring(amount))
+        title = string.gsub(title, "{time}", tostring(seconds))
+        local desc = WebhookLayout.Description
+        desc = string.gsub(desc, "{amount}", tostring(amount))
+        desc = string.gsub(desc, "{time}", tostring(seconds))
+        for i, v in pairs(SettingsBreakable.ThingsToBreak) do
+            thingsfarming = thingsfarming .. ":rock: ``" .. v .. "``\n"
+        end
+        syn.request({
+            Url = SettingsBreakable.Webhook,
+            Method = "POST",
+            Headers = {
+                ["Content-Type"] = "application/json"
+            },
+            Body = HttpService:JSONEncode{
+                ["content"] = "Username: " .. game.Players.LocalPlayer.Name,
+                ["embeds"] = {{
+                    ["title"] = title,
+                    ["description"] = desc,
+                    ["type"] = "rich",
+                    ["color"] = WebhookLayout.Color,
+                    ["thumbnail"] = {
+                        ["url"] = "https://www.biggames.io/_next/static/media/bigGames.66f7ea84.svg",
+                        ["height"] = 350,
+                        ["width"] = 270
+                    },
+                    ["author"] = {
+                        ["name"] = "Breakable Farmer",
+                        ["icon_url"] = "https://tr.rbxcdn.com/d8055fdc4f5c0cb1f7d40f5e10e93eed/150/150/Image/Png"
+                    },
+                    ["fields"] = {{
+                        ["name"] = "Things Farming",
+                        ["value"] = thingsfarming,
+                        ["inline"] = true
+                    },{
+                        ["name"] = "Coins",
+                        ["value"] = coins,
+                        ["inline"] = true
+                    }}
+                }}
+            }
+        })
+    end
+    local WebhookLayout
+    local v1 = require(game.ReplicatedStorage:WaitForChild("Framework"):WaitForChild("Library"));
+    while not v1.Loaded do
+    	game:GetService("RunService").Heartbeat:Wait();
+    end;
+    
+    function WaitUntilAllThingsHaveLoaded()
+        while 1 do
+            if #game.Workspace["__THINGS"].Coins:GetChildren() <= 100 then
+                break
+            end
+            wait(0.1)
+        end
+        if true then
+            return
+        end
+        while 1 do
+            oldcount = #game.Workspace["__THINGS"].Coins:GetChildren()
+            wait(1)
+            newcount = #game.Workspace["__THINGS"].Coins:GetChildren()
+            if newcount ~= oldcount then
+                break
+            end
+        end
+        while 1 do
+            oldcount = #game.Workspace["__THINGS"].Coins:GetChildren()
+            wait(1)
+            newcount = #game.Workspace["__THINGS"].Coins:GetChildren()
+            if newcount == oldcount then
+                break
+            end
+        end
+    end
+    
+    function ShouldBreak(coin)
+        for i2, v2 in pairs(SettingsBreakable.ThingsToBreak) do
+            if string.find(coin, v2) then
+                return true
+            end
+        end
+        return false
+    end
+    
+    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+    local Fire, Invoke = Network.Fire, Network.Invoke
+    
+
+    
+    while 1 do
+        local Ccount = 0
+        for i, v in pairs(Invoke("Get Coins")) do
+            Ccount = Ccount + 1
+        end
+        if Ccount >= 10 then break end
+        wait(3)
+    end
+    
+    function ForeverPickupOrbs()
+      while true do
+        orbs = {}
+        for i, v in pairs (game.Workspace['__THINGS'].Orbs:GetChildren()) do
+            table.insert(orbs, v.Name)
+        end
+        Fire("Claim Orbs", orbs)
+        wait(0.1)
+      end
+    end
+    foreverpickup = coroutine.create(ForeverPickupOrbs)
+    if SettingsBreakable.AutoCollectOrbs then
+        coroutine.resume(foreverpickup)
+    end
+    
+    
+    
+    game.Players.LocalPlayer.PlayerGui.Inventory.Enabled = true
+    wait(1)
+    game.Players.LocalPlayer.PlayerGui.Inventory.Enabled = false
+    
+    if not SettingsBreakable.WorldHop then
+        while 1 do
+            wait(0.01)
+            if SettingsBreakable.Area == "" then
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(Invoke("Get Coins")) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    Fire("Performed Teleport")
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            else
+            pcall(function()
+                anycoins = true
+                if anycoins then
+                    FrTeleportToArea("", SettingsBreakable.Area)
+                    Fire("Performed Teleport")
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == SettingsBreakable.Area then
+                                if ShouldBreak(v2.n) then
+                                    FrTeleportToArea(SettingsBreakable.Area, SettingsBreakable.Area)
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end)
+            end
+            if not SettingsBreakable.Loop then
+                break
+            end
+            if STOP then break end
+            if SettingsBreakable.Loop and not MADE then
+                MADE = true
+                local screenCenter = Vector2.new(workspace.CurrentCamera.ViewportSize.X/2, workspace.CurrentCamera.ViewportSize.Y/2)
+                
+                -- Create the button
+                local myButton = Instance.new("TextButton")
+                myButton.Parent = game.Players.LocalPlayer.PlayerGui.Main -- Assumes the script is a child of a ScreenGui
+                myButton.Position = UDim2.new(0.5, -50, 0.5, -50) -- Set the button's position to the center of the screen
+                myButton.Size = UDim2.new(0, 100, 0, 100)
+                myButton.TextWrapped = true
+                myButton.Text = "Stop Farm"
+                myButton.Font = Enum.Font.SourceSansBold
+                myButton.FontSize = Enum.FontSize.Size48 -- Set a big cartoony font
+                myButton.TextColor3 = Color3.new(1, 1, 1) -- Set the button's text color to white
+                myButton.BackgroundTransparency = 0 -- Make the button fill visible
+                myButton.BackgroundColor3 = Color3.new(1, 0, 0) -- Set the button's background color to red
+                myButton.BorderColor3 = Color3.new(0, 0, 0) -- Set the button's border color to black
+                myButton.BorderSizePixel = 10 -- Set the button's border size
+                
+                -- Add an event listener to the button
+                myButton.MouseButton1Click:Connect(function()
+                    STOP = true
+                    myButton:Destroy()
+                end)
+            end
+        end
+    else
+        while 1 do
+            wait(0.01)
+            FrTeleportToWorld("Spawn", "Shop")
+            wait(0.5)
+            AllCs = Invoke("Get Coins")
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Fantasy", "Fantasy Shop")
+            wait(0.5)
+            FarmWorld = "Fantasy"
+            AllCs = Invoke("Get Coins")
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Tech", "Tech Shop")
+            wait(0.5)
+            FarmWorld = "Tech"
+            AllCs = Invoke("Get Coins")
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Axolotl Ocean", "Axolotl Cave")
+            FarmWorld = "Axolotl Ocean"
+            AllCs = Invoke("Get Coins")
+            wait(0.5)
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Pixel", "Pixel Forest")
+            FarmWorld = "Pixel"
+            AllCs = Invoke("Get Coins")
+            wait(0.5)
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Cat", "Cat Paradise")
+            FarmWorld = "Cat"
+            AllCs = Invoke("Get Coins")
+            wait(0.5)
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            FrTeleportToWorld("Doodle", "Doodle Shop")
+            FarmWorld = "Doodle"
+            AllCs = Invoke("Get Coins")
+            wait(0.5)
+            pcall(function()
+            for i, v in pairs(game:GetService("Workspace")["__MAP"].Teleports:GetChildren()) do
+                local anycoins = false
+                for i2, v2 in pairs(AllCs) do
+                    if (v2.a) == v.Name and ShouldBreak(v2.n) then
+                        anycoins = true
+                    end
+                end
+                if anycoins then
+                    FrTeleportToArea("", v.Name)
+                    wait(0.1)
+                    for i2, v2 in pairs(Invoke("Get Coins")) do
+                        pcall(function()
+                            if (v2.a) == v.Name then
+                                if ShouldBreak(v2.n) then
+                                    local equippedpets = {}
+                                    for i3, v3 in pairs(game:GetService("Players").LocalPlayer.PlayerGui.Inventory.Frame.Main.Pets.Normal:GetChildren()) do
+                                        if v3:IsA("TextButton") then
+                                            if v3.Equipped.Visible == true then
+                                                table.insert(equippedpets, v3.Name)
+                                            end
+                                        end
+                                    end
+                                    local Network = require(game:GetService("ReplicatedStorage").Library.Client.Network)
+                                    local Fire, Invoke = Network.Fire, Network.Invoke
+                                    n = v2.Name
+                                    local v86 = Invoke("Join Coin", i2, equippedpets)
+                                    for v88, v89 in pairs(v86) do
+                                        Fire("Farm Coin", i2, v88);
+                                    end
+                                    ThingsBroke = ThingsBroke + 1
+                                    count = 0
+                                    while 1 do
+                                        wait(0.01)
+                                        local f = false
+                                        for i3, v3 in pairs(Invoke("Get Coins")) do
+                                            if i2 == i3 then
+                                                f = true
+                                            end
+                                        end
+                                        if count >= SettingsBreakable.WaitTime then break end
+                                        if not f then break end
+                                        count = count + 1
+                                    end
+                                end
+                            end
+                        end)
+                    end
+                end
+            end
+            end)
+            if not SettingsBreakable.Loop then break end
+            if STOP then break end
+            if SettingsBreakable.Loop and not MADE then
+                MADE = true
+                local screenCenter = Vector2.new(workspace.CurrentCamera.ViewportSize.X/2, workspace.CurrentCamera.ViewportSize.Y/2)
+                
+                -- Create the button
+                local myButton = Instance.new("TextButton")
+                myButton.Parent = game.Players.LocalPlayer.PlayerGui.Main -- Assumes the script is a child of a ScreenGui
+                myButton.Position = UDim2.new(0.5, -50, 0.5, -50) -- Set the button's position to the center of the screen
+                myButton.Size = UDim2.new(0, 100, 0, 100)
+                myButton.TextWrapped = true
+                myButton.Text = "Stop Farm"
+                myButton.Font = Enum.Font.SourceSansBold
+                myButton.FontSize = Enum.FontSize.Size48 -- Set a big cartoony font
+                myButton.TextColor3 = Color3.new(1, 1, 1) -- Set the button's text color to white
+                myButton.BackgroundTransparency = 0 -- Make the button fill visible
+                myButton.BackgroundColor3 = Color3.new(1, 0, 0) -- Set the button's background color to red
+                myButton.BorderColor3 = Color3.new(0, 0, 0) -- Set the button's border color to black
+                myButton.BorderSizePixel = 10 -- Set the button's border size
+                
+                -- Add an event listener to the button
+                myButton.MouseButton1Click:Connect(function()
+                    STOP = true
+                    myButton:Destroy()
+                end)
+            end
+        end
+    	    if GetOranges() >= Settings["Fruit"]["Max Fruit"] then
+                writefile("fruitfarmT.txt", "false")
+            else
+            function sHopper()
+    local endpoint = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/6284583030/servers/Public?sortOrder=Asc&limit=100'))
+    bestserver = {
+        p = 0
+    }
+    function shuffleTable(tbl)
+        local size = #tbl
+        for i = size, 1, -1 do
+            local rand = math.random(size)
+            tbl[i], tbl[rand] = tbl[rand], tbl[i]
+        end
+        return tbl
+    end
+    randomdata = shuffleTable(endpoint.data)
+    for i, v in pairs(randomdata) do
+        if v.playing > bestserver['p'] and v.playing <= 2 then
+            bestserver['id'] = v.id
+            bestserver['p'] = v.playing
+        end
+    end
+    game:GetService("TeleportService"):TeleportToPlaceInstance(6284583030, bestserver.id, game.Players.LocalPlayer)
+end
+while 1 do
+    oldid = game.JobId
+    sHopper()
+    task.wait(1)
+    if oldid ~= game.JobId then
+        break
+    end
+end
+            end
+    end
+    
+end
+end
+end
+
+if Settings["Auto Mailbox"]["Enabled"] then
+	if Lib.Save.Get().Diamonds >= Settings["Auto Mailbox"]["Min Dias"] then
+		FrTeleportToWorld("Spawn", "Shop")
+		wait(3)
+		user = Settings["Auto Mailbox"]["Recipient"]
+	    msg = "Sent To You Cause U Cool"
+	    gems = Lib.Save.Get().Diamonds - 100000
+        game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(254.149002, 98.2168579, 349.55304, 0.965907216, -6.73597569e-08, -0.258888513, 6.48122409e-08, 1, -1.83752729e-08, 0.258888513, 9.69664127e-10, 0.965907216)
+        wait(1)
+        Invoke("Send Mail", {
+	        ["Recipient"] = user,
+	        ["Diamonds"] = gems,
+	        ["Pets"] = {},
+	        ["Message"] = msg
+    	})
+	end
+end
+boostco = coroutine.create(function()
+    while 1 do
+        wait(2)
+	  if Settings["Boosts"]["Triple Damage"] then
+        boostName = "Triple Damage"
+        local Library = require(game.ReplicatedStorage.Framework.Library)
+        local save = Library.Save.Get()
+        found = false
+        for i, v in pairs(save.Boosts) do
+            if i == boostName then
+                found = true
+            end
+        end
+        if not found then
+            Fire("Activate Boost", boostName)
+        end
+	  end
+	  if Settings["Boosts"]["Server Damage"] then
+            boostName = "Triple Damage"
+            local Library = require(game.ReplicatedStorage.Library)
+            Library.Load()
+            found = false
+            for i, v in pairs(Library.ServerBoosts.GetActiveBoosts()) do
+                if i == boostName then
+                    found = true
+                end
+            end
+            if not found then
+                Fire("Activate Server Boost", boostName)
+            end
+        end
+    end
+end)
+coroutine.resume(boostco)
+function GetMulti(B)
+		if not B then return 0 end
+		local totalMultiplier = 0	
+		if B.l then
+			for _, v in pairs(B.l) do
+				pcall(function() 
+					if v.m and tonumber(v.m) then
+						totalMultiplier = totalMultiplier + v.m
+					end
+				end)
+			end
+			
+		end
+		return totalMultiplier
+	end
+local GemsEarned = 0
+local TotalGemsEarned = 0
+local StartingGems = Library.Save.Get().Diamonds
+HttpService = game:GetService("HttpService")
+function WH()
+	request({
+		Url = Settings["Webhooks"]["Server Hop Webhook"],
+        Method = "POST",
+        Headers = {
+            ["Content-Type"] = "application/json"
+        },
+        Body = HttpService:JSONEncode{
+            ["content"] = "",
+            ["embeds"] = {
+			    {
+			      ["title"] = "Server Hop Stat Update (v3)",
+			      ["description"] = "Successfully Broke Everything In Server. Hopping To New Server!",
+			      ["color"] = tonumber(0x0f0063),
+			      ["fields"] = {
+			        {
+			          ["name"] = "Stats",
+			          ["value"] = ":clock1: **Time Taken:** ``"..TimeElapsed.."s``\n:gem: **Gems Earned:** ``"..add_suffix(GemsEarned).."``\n:gem: **Total Gems Earned:** ``" .. add_suffix(TotalGemsEarned) .. "``\n:map: **Farming:** ``"..AREATOCHECK.."``"
+			        }
+			      },
+			      ["author"] = {
+			        ["name"] = "Mystic Farmer - Stats"
+			      }
+			    }
+			  }
+			  }
+	})
+end
+
+wait(1)
+
+FrTeleportToWorld("Diamond Mine", "Mystic Mine")
+
+if game.Workspace:FindFirstChild("plat") then game.Workspace.plat:Destroy() end
+local p = Instance.new("Part") 
+p.Anchored = true
+p.Name = "plat"
+p.Position = Vector3.new(9043.19140625, -38.66098690032959, 2424.636474609375)
+p.Size = Vector3.new(100, 1, 100)
+p.Parent = game.Workspace
+local gui = Instance.new("SurfaceGui")
+gui.Parent = p
+gui.Face = Enum.NormalId.Top
+local textLabel = Instance.new("TextLabel")
+textLabel.Text = "Gem Farmer Made By Sewy#5258"
+textLabel.Size = UDim2.new(1, 0, 1, 0)
+textLabel.BackgroundColor3 = Color3.new(1, 1, 1)
+textLabel.TextColor3 = Color3.new(0, 0, 0)
+textLabel.FontSize = Enum.FontSize.Size14
+textLabel.Parent = gui
+textLabel.TextScaled = true
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(9043.19141, -34.3321552, 2424.63647, -0.938255966, 7.68024719e-08, 0.345941782, 8.24376656e-08, 1, 1.57588176e-09, -0.345941782, 2.99972136e-08, -0.938255966)
+AllC = Invoke("Get Coins")
+Fire("Performed Teleport")
+AllNeededCoins = {}
+for i, v in pairs(AllC) do
+	if v.a == "Mystic Mine" then
+		M = GetMulti(v.b)
+		for i2,v2 in pairs(Settings["Multipliers"]) do
+			if string.find(v.n, i2) then
+				if M >= v2 then table.insert(AllNeededCoins, i) end
+			end
+		end
+	end
+end
+local equipped = {}
+
+            local lib = require(game.ReplicatedStorage.Library)
+
+            p = lib.Save.Get().PetsEquipped
+
+            for petid, petdata in pairs(p) do
+            table.insert(equipped, petid)
+            end
+CoinsLeft = #AllNeededCoins
+for i,v in pairs(AllNeededCoins) do
+	attack_coin(v, equipped)
+	wait(0.02)
+	wait_until_broken(v)
+    CoinsLeft = CoinsLeft - 1
+end
+wait(1)
+local EndingGems = Library.Save.Get().Diamonds
+GemsEarned = EndingGems - StartingGems
+if not isfile("gemtotal.txt") then writefile("gemtotal.txt", "0") end
+if not isfile("timetotal.txt") then
+    writefile("timetotal.txt", "0") end
+if not isfile("timeframe.txt") then
+    writefile("timeframe.txt", "0")
+end
+TotalGemsEarned = GemsEarned + tonumber(readfile("gemtotal.txt"))
+writefile("gemtotal.txt", tostring(TotalGemsEarned))
+tt = tonumber(readfile("timetotal.txt"))
+tt = tt + TimeElapsed
+writefile("timeframe.txt", tostring(GemsEarned + tonumber(readfile("timeframe.txt"))))
+writefile("timetotal.txt", tostring(tt))
+if tt >= Settings["Webhooks"]["Timeframe"] then
+    writefile("timetotal.txt", "0")
+    pcall(function()
+    request({
+		Url = Settings["Webhooks"]["Time Frame Webhook"],
+        Method = "POST",
+        Headers = {
+            ["Content-Type"] = "application/json"
+        },
+        Body = HttpService:JSONEncode{
+            ["content"] = "",
+            ["embeds"] = {
+			    {
+			      ["title"] = "Time Frame Stat Update (" .. Settings["Webhooks"]["Timeframe"] .. "s)",
+			      ["description"] = "Gem update",
+			      ["color"] = tonumber(0x0f0063),
+			      ["fields"] = {
+			        {
+			          ["name"] = "Stats",
+			          ["value"] = ":gem: **Earnings:** ``".. add_suffix(tonumber(readfile("timeframe.txt"))) .."``"
+			        }
+			      },
+			      ["author"] = {
+			        ["name"] = "Mystic Farmer - Stats"
+			      }
+			    }
+			  }
+			  }
+	})
+	end)
+    writefile("timeframe.txt", "0")
+end
+pcall(WH)
+wait(1)
+
+function sHopper()
+    local endpoint = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/6284583030/servers/Public?sortOrder=Asc&limit=100'))
+    bestserver = {
+        p = 0
+    }
+    function shuffleTable(tbl)
+        local size = #tbl
+        for i = size, 1, -1 do
+            local rand = math.random(size)
+            tbl[i], tbl[rand] = tbl[rand], tbl[i]
+        end
+        return tbl
+    end
+    randomdata = shuffleTable(endpoint.data)
+    for i, v in pairs(randomdata) do
+        if v.playing > bestserver['p'] and v.playing <= 2 then
+            bestserver['id'] = v.id
+            bestserver['p'] = v.playing
+        end
+    end
+    game:GetService("TeleportService"):TeleportToPlaceInstance(6284583030, bestserver.id, game.Players.LocalPlayer)
+end
+while 1 do
+    oldid = game.JobId
+    sHopper()
+    task.wait(1)
+    if oldid ~= game.JobId then
+        break
+    end
+end
